@@ -1,0 +1,69 @@
+.flex-item {
+    min-height: 80px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+
+.flex-item1 {
+    background-color: pink;
+}
+
+.flex-item2 {
+    background-color: yellowgreen;
+    flex-basis: 33.33%;
+}
+
+.flex-item3 {
+    background-color: blue;
+    flex-basis: 16.66%;
+}
+
+.flex-item4 {
+    background-color: darkcyan;
+}
+
+.flex-item5 {
+    background-color: violet;
+    flex-basis: 50%;
+}
+
+.flex-item6 {
+    background-color: darkgreen;
+    flex-basis: 50%;
+}
+
+.flex-item7 {
+    background-color: darkmagenta;
+}
+
+.flex-item8 {
+    background-color: brown;
+    flex-basis: 16.66%;
+}
+
+.flex-item9 {
+    background-color: darkred;
+    flex-basis: 33.33%;
+}
+
+.flex-item10 {
+    background-color: darkolivegreen;
+    flex-basis: 33.33%;
+}
+
+.flex-item11 {
+    background-color: deepskyblue;
+    flex-basis: 16.66%;
+}
+
+.flex-block1, .flex-block2, .flex-block5 {
+    display: flex;
+}
+
+.flex-block3 {
+    flex-basis: 33.33%;
+}
+
+.flex-block4 {
+    flex-basis: 16.66%;
+}
